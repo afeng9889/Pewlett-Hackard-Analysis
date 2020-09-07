@@ -13,8 +13,10 @@ To determine the number of retiring employees by title and identify employees wh
 
 # Summary: 
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+
 According to the SUM of the count of retiring titles, there will be 90,398 roles that will need to be filled.
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
 There are currently not enough employees who are able to be mentors given the criteria of only those who were born in 1965. There are only 1940 employees who are able to be mentors.
 If we expanded the eligiblity to those who were born before 1965 but after the current year for the retirees, the population would be more than enough to help mentor the next generation. 
