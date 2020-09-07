@@ -17,4 +17,4 @@ According to the SUM of the count of retiring titles, there will be 90,398 roles
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 There are currently not enough employees who are able to be mentors given the criteria of only those who were born in 1965. There are only 1940 employees who are able to be mentors.
-If we expanded the eligiblity to those who were born beofre 1965 but after the current year for the retirees, the population would be more than enough to help mentor the next generation. 
+If we expanded the eligiblity to those who were born before 1965 but after the current year for the retirees, the population would be more than enough to help mentor the next generation. 
