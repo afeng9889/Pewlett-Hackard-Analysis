@@ -2,7 +2,7 @@
 To determine the number of retiring employees by title and identify employees who are eligible to participate in a mentorship program. 
 
 
-# Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+# Results: 
 - We created a table to find the list of employees at the retirement age by title and the criteria of those who were born between the years 1952 and 1955. 
 - Next, we had to remove any duplicates as some employees had different titles over their employment. By using the DISTINCT ON function, we can pull the employee number just once as a unique number.
 - We were able to determine the number of retiring employees by title with COUNT of employee numbers and GROUP BY title.
